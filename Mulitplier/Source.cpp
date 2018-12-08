@@ -1,3 +1,4 @@
+// Multiplies two numbers
 #include "Multiplier.h"
 
 int main() 
